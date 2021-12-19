@@ -1,7 +1,7 @@
 ## Hi! <img src="https://raw.githubusercontent.com/pacokwon/pacokwon/master/wave.gif" width="30px">
 
-### 카이스트 전산학부 19학번 권해찬입니다.
-### I'm pacokwon, an undergraduate student in KAIST.
+#### I'm pacokwon, an undergraduate student in KAIST.
+#### 카이스트 전산학부 19학번 권해찬입니다.
 
 I have interests in various topics such as web programming, programming languages, and using/developing tools for developers.
 

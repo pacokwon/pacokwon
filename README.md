@@ -1,4 +1,4 @@
-## Hi! <img src="https://raw.githubusercontent.com/pacokwon/pacokwon/master/wave.gif" width="30px">
+## Hi!
 
 I have interests in various topics such as web programming, programming languages, and using/developing tools for developers.
 
